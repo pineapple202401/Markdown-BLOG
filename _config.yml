@@ -102,5 +102,5 @@ theme: volantis
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/pineapple202401/pineapple202401.github.io.git
+  repo: https://github.com/pineapple202401/pineapple202401.github.io
   branch: gh-pages
