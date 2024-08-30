@@ -165,34 +165,30 @@ cover:
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  background: https://gcore.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/bing/bing.jpg
+  background: https://wallpaperaccess.com/full/8110225.jpg
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
-  title: 'Volantis'
-  subtitle: ''
-  search: A Wonderful Theme for Hexo # search bar placeholder
+  title: 'Notebook'
+  subtitle: 'My Notebook'
+  search: Find Article in Notebook # search bar placeholder
   features:
-    - name: 文档
+    - name: Github
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f5c3.svg # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
-      url: /v4/getting-started/
-    - name: 帮助
-      icon: #
-      img: volantis-static/media/twemoji/assets/svg/1f516.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
-      url: faqs/
-    - name: 示例
+      url: https://github.com/WayneChang1226
+    - name: 程式碼
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f396.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f396.svg
-      url: /examples/
-    - name: 社区
+      url: https://github.com/WayneChang1226
+    - name: 社群
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f389.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
       url: /contributors/
-    - name: 博客
+    - name: 部落格
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
       url: /archives/
-    - name: 源码
+    - name: 框架程式碼
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f9ec.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
       url: https://github.com/volantis-x/hexo-theme-volantis/
